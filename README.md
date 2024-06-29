@@ -89,13 +89,7 @@ The Project is created with:
 
 To clone and run this application, you'll need to first have Git and Node.js (npm) installed on your computer. From your command line type the following:
 
-## Clone this repository
 
-$ git clone https://github.com/OsmanNasirdeen/Devjobs
-
-## Go into the repository
-
-$ cd ./devjobs
 
 ## Install dependencies
 
@@ -113,91 +107,6 @@ $ npm run dev
 
 ---
 
-# How To Use
 
-## References
 
-### Back-end
 
----
-
-` server/API to get the project data`:
-
-```javascript
-const serverUrl = https://server-devjobs.onrender.com
-```
-
-The data of the project is hosted on this server [VISIT SERVER](https://server-devjobs.onrender.com) which provides different API's to served various data to the front-end.
-The server is built using the following technologies:
-
-- node js
-- express
-- json data
-
-`To learn more about the server`:
-[Visit Server Github Repo](https://github.com/OsmanNasirdeen/devjobs-server)
-
-[Back To The Top](#devjobs-web-app)
-
-## API Reference
-
-```javascript
-// get all data from API
-const getAllData = fetch(`https://server-devjobs.onrender.com/`);
-
-// get all data which match specific location from API
-const specificLocationData = fetch(
-  `https://server-devjobs.onrender.com/locations/locationName`
-);
-// get all data that includes certain keywords from API
-const certainCategoryData = fetch(
-  `https://server-devjobs.onrender.com/category/categoryName`
-);
-```
-
-### API Demo
-
----
-
-#### ` (1) This will return an array of all data whose location is Ghana from The server`;
-
-```javascript
-const locationName = "Ghana";
-const specificLocationData = fetch(
-  `https://server-devjobs.onrender.com/locations/${locationName}`
-);
-```
-
-#### (2) `This will return an array of all data whose position name contains the keyword "software engineer" from The sever`
-
-```javascript
-const categoryName = "software engineer";
-const certainCategoryData = fetch(
-  `https://server-devjobs.onrender.com/category/${categoryName}`
-);
-```
-
-[Back To The Top](#devjobs-web-app)
-
----
-
-# Project Status
-
-Project is: completed
-
----
-
-# License
-
-MIT License
-
-Copyright (c) [2023] AmaliTech
-
----
-
-# Author
-
-- LinkedIn - [Osman Nasirdeen](https://www.linkedin.com/in/osman-nasirdeen/)
-- Github - [OsmanNasirdeen](https://github.com/OsmanNasirdeen)
-
-[Back To The Top](#devjobs-web-app)
