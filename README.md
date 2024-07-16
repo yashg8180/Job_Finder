@@ -1,6 +1,7 @@
 # ![Project Image](./demo_img/project_tablet.png)
 
-# Devjobs web app
+# ![Screenshot 2024-06-29 224736](https://github.com/user-attachments/assets/6c538eb9-7fb2-42a3-bb87-3110a30c5d45)
+Devjobs web app
 
 > A job board for developers showing job vacancies to job seekers. Users can search and apply for new job opportunities in their area and profession.
 >
