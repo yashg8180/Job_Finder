@@ -17,8 +17,7 @@
 - [Setup](#setup)
 - [How To Use](#how-to-use)
 - [Project Status](#project-status)
-- [License](#license)
-- [Author](#author)
+
 
 ---
 
@@ -83,8 +82,6 @@ The Project is created with:
 
 ---
 
-[Back To The Top](#devjobs-web-app)
-
 # Setup
 
 To clone and run this application, you'll need to first have Git and Node.js (npm) installed on your computer. From your command line type the following:
@@ -100,7 +97,6 @@ $ npm install
 $ npm run dev
 
 ```
-$ cd ./devjobs
 $ npm install
 $ npm run dev
 ```
