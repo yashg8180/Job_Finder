@@ -4,7 +4,7 @@
 
 > A job board for developers showing job vacancies to job seekers. Users can search and apply for new job opportunities in their area and profession.
 >
-> #### Visit site to Check live demo [_here_](https://amali-devjobs.netlify.app/).
+> #### Visit site to Check live demo [_here_](https://yash-devjobs-98d57b.netlify.app/).
 
 ---
 
