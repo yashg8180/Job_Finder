@@ -1,4 +1,4 @@
-# ![Project Image](./demo_img/project_tablet.png)
+![Screenshot 2024-06-29 225009](https://github.com/user-attachments/assets/f148dc45-6b17-4b62-add2-46ce40ea520e)
 
 # ![Screenshot 2024-06-29 224736](https://github.com/user-attachments/assets/6c538eb9-7fb2-42a3-bb87-3110a30c5d45)
 Devjobs web app
@@ -64,22 +64,22 @@ The Project is created with:
 ---
 
 # Screenshots
+![Screenshot 2024-06-29 224323](https://github.com/user-attachments/assets/85ce26e5-6cbc-4458-95ec-7f7c9062a7be)
 
-![project_img](./demo_img/project_detailspage.png)
 
 ### dark mode
 
 ---
+![Screenshot 2024-06-29 225009](https://github.com/user-attachments/assets/5386980b-94cf-41c1-b291-9583218201e5)
 
-![project_img](./demo_img/dark-mode_2.png)
 
 ---
 
 ### mobile
 
 ---
+![Screenshot 2024-06-29 225405](https://github.com/user-attachments/assets/8a2dc5da-e53e-48a5-8a95-3f5a6c1617e9)
 
-![project_img](./demo_img/project_mobile.png)
 
 ---
 
